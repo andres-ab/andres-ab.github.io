@@ -1,6 +1,8 @@
 
 # Andrés Armesto
 
+<img src="/img/me.jpg" width="150" height="150">
+
 👨 Data Engineer & Team Lead
 
 📊 I'm a Data Engineer with +5 years of experience in data roles
@@ -35,6 +37,10 @@ Fluent in Portuguese
 
 Fluent in Italian
 
-## Contact
+## Contact me
 
-Connect and let us chat [on LinkedIn](https://www.linkedin.com/in/andres-ab/)
+[Write me on LinkedIn](https://www.linkedin.com/in/andres-ab/)
+
+[GitHub](https://github.com/andres-ab)
+
+[Projects showcase](https://www.datascienceportfol.io/andres_ab)
