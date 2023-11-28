@@ -21,7 +21,7 @@ Industrial Engineering, University of Buenos Aires, Buenos Aires, Argentina, 202
 
 **Programming Languages**: Python, SQL, R, Scala
 
-**Technologies**: Spark, Databricks, Microsoft Azure, AWS, Airflow, dbt, Snowflake, Power BI, Docker, Git
+**Technologies**: Spark, Databricks, Microsoft Azure, AWS, Airflow, dbt, Snowflake, Power BI, Docker, Git, CI/CD
 
 **Techniques**: Data Engineering, Data Modeling, Data Analysis, Geospatial Analysis, Data Visualization  
 
